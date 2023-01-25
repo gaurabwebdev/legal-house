@@ -224,6 +224,10 @@ section.footer-section a {
         margin-bottom: 1rem !important;
     }
 
+    .carousel-slide {
+        height: 575px;
+    }
+
     .footer-section {
         padding: 6rem 3rem;
     }
